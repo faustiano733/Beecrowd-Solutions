@@ -1,5 +1,6 @@
 # Tomadas
-=================================================================================================================================================
+=======================================
+
 Finalmente, o time da Universidade conseguiu a classificação para a Final Nacional da Maratona de Programação da SBC. 
 Os três membros do time e o técnico estão ansiosos para bem representar a Universidade, e além de treinar muito, preparam
 com todos os detalhes a sua viagem a São Paulo, onde será realizada a Final Nacional.
@@ -13,7 +14,8 @@ Precavidos, os três membros do time e o técnico compraram cada um uma régua d
 aparelhos na única tomada do quarto de hotel; eles também podem ligar uma régua em outra para aumentar ainda mais o 
 número de tomadas disponíveis. No entanto, como as réguas têm muitas tomadas, eles pediram para você escrever um programa
 que, dado o número de tomadas em cada régua, determine o número máximo de aparelhos que podem ser conectados à energia num mesmo instante.
--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------
+
 # Entrada
 A entrada consiste de uma linha com quatro números inteiros T1, T2, T3, T4, indicando o número de tomadas de cada uma das quatro réguas (2 ≤ Ti ≤ 6).
 
