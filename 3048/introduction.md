@@ -5,13 +5,17 @@ Na calçada em frente ao Palácio Imperial, não se sabe a razão, existe uma se
 Para ver a figura Acessar:https://judge.beecrowd.com/pt/problems/view/3048
 Neste problema, dada a sequência original de números desenhados no chão da calçada, seu programa deve computar e imprimir a quantidade máxima de números da sequência que poderiam ser marcados com um círculo sem que haja dois números iguais consecutivos na sequência marcada.
 ---------------------------------------
-# Entrada
+
+## Entrada
+
 A primeira linha da entrada contém um inteiro N representando o tamanho da sequência. As N linhas seguintes contêm, cada uma, um inteiro Vi , para 1 ≤ i ≤ N, definindo a sequência de números desenhados no chão da calçada imperial.
 
-# Saída
+## Saída
+
 Seu programa deve imprimir uma linha contendo um número inteiro representando a quantidade máxima de números da sequência que poderiam ser marcados com um círculo sem que haja dois números iguais consecutivos na sequência marcada.
 
-# `Restrições`
+### `Restrições`
+
 • 3 ≤ N ≤ 500
 
 • Vi é igual a 1 ou 2, para 1 ≤ i ≤ N

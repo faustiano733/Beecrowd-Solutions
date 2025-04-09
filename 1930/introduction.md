@@ -16,8 +16,10 @@ número de tomadas disponíveis. No entanto, como as réguas têm muitas tomadas
 que, dado o número de tomadas em cada régua, determine o número máximo de aparelhos que podem ser conectados à energia num mesmo instante.
 ---------------------------------------
 
-# Entrada
+## Entrada
+
 A entrada consiste de uma linha com quatro números inteiros T1, T2, T3, T4, indicando o número de tomadas de cada uma das quatro réguas (2 ≤ Ti ≤ 6).
 
-# Saída
+## Saída
+
 Seu programa deve produzir uma única linha contendo um único número inteiro, indicando o número máximo de aparelhos que podem ser conectados à energia num mesmo instante.
