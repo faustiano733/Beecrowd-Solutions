@@ -16,7 +16,7 @@ A Beecrowd é uma plataforma online de prática de programação com centenas de
 
 📁 Organização das pastas:
 --------------------------
-Os arquivos estão organizados por número do exercício, dentro de cada numero de exercicio tem um input.md que permite ver o algoritmo a funcionar, e o introduction.txt que da uma introdução ao problema e o apresenta por exemplo:
+Os arquivos estão organizados por número do exercício, dentro de cada numero de exercicio tem um input.md que permite ver o algoritmo a funcionar, e o introduction.md que da uma introdução ao problema e o apresenta por exemplo:
 - `1153/index.js`  → Exercício 1153 - fatorial Simples
 - `1153/input.txt`  → dados de entrada do exercicio
 - `1153/introduction.md` → Apresentação do Problema 
