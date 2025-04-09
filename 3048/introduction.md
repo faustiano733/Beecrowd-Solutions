@@ -6,7 +6,6 @@ Na calçada em frente ao Palácio Imperial, não se sabe a razão, existe uma se
 Para ver a figura Acessar: https://judge.beecrowd.com/pt/problems/view/3048
 
 Neste problema, dada a sequência original de números desenhados no chão da calçada, seu programa deve computar e imprimir a quantidade máxima de números da sequência que poderiam ser marcados com um círculo sem que haja dois números iguais consecutivos na sequência marcada.
----------------------------------------
 
 ## Entrada
 

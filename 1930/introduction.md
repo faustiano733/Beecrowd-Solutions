@@ -14,7 +14,7 @@ Precavidos, os três membros do time e o técnico compraram cada um uma régua d
 aparelhos na única tomada do quarto de hotel; eles também podem ligar uma régua em outra para aumentar ainda mais o 
 número de tomadas disponíveis. No entanto, como as réguas têm muitas tomadas, eles pediram para você escrever um programa
 que, dado o número de tomadas em cada régua, determine o número máximo de aparelhos que podem ser conectados à energia num mesmo instante.
----------------------------------------
+
 
 ## Entrada
 
