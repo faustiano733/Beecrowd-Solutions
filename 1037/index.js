@@ -1,9 +1,7 @@
 var input = require('fs').readFileSync("./input.txt", "utf8");
 
 const number = parseFloat(input);
-console.log(number)
 const intervals = [[0,25],[25.0001,50],[50.0001,75],[75.0001,100]];
-
 
 function binarySearchMiddleArray(value, array){
     let min = 0;
@@ -44,6 +42,6 @@ function isLess(value, array){
     return value < array[0]
 }
 
-// const index = binarySearchMiddleArray(number, intervals)
-// console.log()
-console.log(`${number} === ${25}: ${number > 25}`)
+const index = binarySearchMiddleArray(number, intervals)
+
+console.log(`${index === null ?'Fora de intervalo':`Intervalo ${index == 0 ? "[" : "("}${intervals[index][0].toFixed(0)},${intervals[index][1]}]`}`)
